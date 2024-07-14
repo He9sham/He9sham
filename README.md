@@ -2,7 +2,7 @@
 
 # Project Title
 
-A brief description of what this project does and its purpose.
+// A brief description of what this project does and its purpose.
 
 ## Table of Contents
 
