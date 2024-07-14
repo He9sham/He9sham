@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on freelancer [my doctor](https://github.com/He9sham/Doctor-app)
 
-- 🌱 I’m currently learning **Flutter framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
