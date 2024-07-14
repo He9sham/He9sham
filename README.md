@@ -1,7 +1,7 @@
 ## Hi I'm hesham👋
 
 <h1 align="center">Hi 👋, I'm Hesham</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 - 🔭 I’m currently working on freelancer [my doctor](https://github.com/He9sham/Doctor-app)
 
